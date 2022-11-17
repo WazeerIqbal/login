@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: url("back.jpg") no-repeat center center fixed ;
+    background-size: cover;
+    
+    
+        
+}
+.container{
+    /* border: 2px solid palegreen; */
+    position: absolute;
+    left: 40%;
+    top: 30%;
+    width: 20%;
+    
+    
+    
+}
+.container h1{
+    
+    color: white;
+    font-size: 40px;
+    
+    border-bottom: 4px solid purple;
+    display: inline-block;
+    
+    
+
+    
+}
+
+
+.box input{
+    
+       background: none;
+       font-size: 17px;
+       padding: 5px;
+       
+       outline: none;
+       color:white;
+       border: none;
+       margin-top: 50px;
+       
+       
+       
+}
+.box{
+    border-bottom: 3px solid purple;
+}
+.box i{
+    color: white;
+    font-size: 17px;
+    justify-content: center;
+    
+    
+}
+.btn{
+    font-size: 22px;
+    color: white;
+    margin-top: 30px;
+    cursor: pointer;
+    width: 100px;
+    background: none;
+    border: 1px solid purple;
+}
+::placeholder{
+    color: white;
+}
+
+
+
+
+
